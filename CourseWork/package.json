@@ -1,0 +1,14 @@
+{
+  "name": "task_1",
+  "version": "1.0.0",
+  "description": "Responsive porfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Nhan Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}

@@ -1,0 +1,11 @@
+After the first module tasklist:
+What I learned:
+    -Knowledge about a static responsive website with different pages
+    -Project structure about organizing html, css files 
+    -How to install Node environment for coding
+    -How to install Git 
+    -How to install Visual Studio Code with some useful extensions and understand its use: 
+        + Live Server: launch a static website on dev server 
+        + Bracket Pair Colorizer: it helps me to identified brackets when coding with different colors
+        + Prettier: code formatter which helps my code look clear and more harmonizing
+    -Install node-sass and set up using sass in the project
