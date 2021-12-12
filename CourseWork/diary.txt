@@ -1,4 +1,4 @@
-After the first module tasklist:
+***After the module tasklist part 1:
 What I learned:
     -Knowledge about a static responsive website with different pages
     -Project structure about organizing html, css files 
@@ -9,3 +9,11 @@ What I learned:
         + Bracket Pair Colorizer: it helps me to identified brackets when coding with different colors
         + Prettier: code formatter which helps my code look clear and more harmonizing
     -Install node-sass and set up using sass in the project
+
+***After the module tasklist part 2:
+What I learned:
+    -Create the homepage with basic HTML tags
+    -How to use fontAwesome in the project
+    -Add core styles to html tags and class names in main.scss
+    -Use Chrome Tool to check computed properties's styles, check source code of the project
+    -Create mixins(conditions in mixins), variables in main.scss file
