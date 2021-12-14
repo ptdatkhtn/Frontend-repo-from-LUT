@@ -17,8 +17,13 @@ What I learned:
     -Add core styles to html tags and class names in main.scss
     -Use Chrome Tool to check computed properties's styles, check source code of the project
     -Create mixins(conditions in mixins), variables in main.scss file
-***After the module tasklist part 2:
+***After the module tasklist part 3:
 What I learned:
     -Know how to create pure CSS menu button
     -Add the JavaScript-code to handle the rotating of menu button
     -Learn to use CSS transitions to rotate the button with 3 lines into an X
+***After the module tasklist part 4:
+What I learned:
+    -Know how to create the menu overlay
+    -Create mixins for media query to check responsiveness of the menu
+    -Know how to add branding and navigation to the site
