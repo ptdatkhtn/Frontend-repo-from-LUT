@@ -27,3 +27,9 @@ What I learned:
     -Know how to create the menu overlay
     -Create mixins for media query to check responsiveness of the menu
     -Know how to add branding and navigation to the site
+***After the module tasklist part 5:
+What I learned:
+    -Create function 'set-text-color' in _config.scss 
+    -Create about page using CSS Grid
+    -Add grid template areas to map out the layout.
+    -Learn to add Sass styling and make the page responsive
