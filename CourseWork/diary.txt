@@ -37,3 +37,6 @@ What I learned:
 What I learned:
     -Learn more about CSS grid and CSS Flexbox
     -Learn the properties of both layouts (Contact page and Work page)
+***After the module tasklist part 7:
+What I learned:
+    -Know how to deploy your webste with Github Pages
