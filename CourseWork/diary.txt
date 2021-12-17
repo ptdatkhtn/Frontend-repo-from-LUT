@@ -33,3 +33,7 @@ What I learned:
     -Create about page using CSS Grid
     -Add grid template areas to map out the layout.
     -Learn to add Sass styling and make the page responsive
+***After the module tasklist part 6:
+What I learned:
+    -Learn more about CSS grid and CSS Flexbox
+    -Learn the properties of both layouts (Contact page and Work page)
