@@ -1,16 +1,12 @@
 # LUT Front End Course
 
-This repository is made by Thanh Dat Phan, student number is: x106928, student email is: Thanh.Dat.Phan@student.lut.fi
+This repository is made by Thanh Dat Phan, student email is: Thanh.Dat.Phan@student.lut.fi
 
 This repository contains 2 folders: CourseWork and Project
 
-The link to the project I completed: []()
-
-The link to a video of project running: []()
+The link to a video of project running: [https://drive.google.com/file/d/1Kw_gjW8qDVBK5Tx_MEPdcKqYPbvOQpNo/view?usp=sharing](https://drive.google.com/file/d/1Kw_gjW8qDVBK5Tx_MEPdcKqYPbvOQpNo/view?usp=sharing)
 
 ## Coursework
-
-This folder is implemented according to the [videos](https://www.youtube.com/watch?v=gYzHS-n2gqU&list=PLillGF-RfqbYoGoCjKoMOkVznV6aSXKzU) on Youtube from LUT.
 
 The link to my coursework: [https://ptdatkhtn.github.io/Frontend-repo-from-LUT](https://ptdatkhtn.github.io/Frontend-repo-from-LUT)
 
