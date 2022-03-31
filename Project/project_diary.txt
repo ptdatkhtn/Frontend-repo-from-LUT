@@ -44,5 +44,5 @@
 
 7/ Website Deployment [Part 7].
  	deployment my website with GitHub Pages
-  
+  linked project work: https://ptdatkhtn.github.io/Frontend-repo-from-LUT/
   
