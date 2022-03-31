@@ -1,0 +1,48 @@
+1/ Introduction to workflow and sass [Part 1].
+
+  Learning about SASS's definition and how to implement it
+	Definition: Sass consists of two syntaxes. The original syntax, called "the indented syntax". It uses indentation to separate code blocks and newline characters to 
+  separate rules. The newer syntax, "SCSS" (Sassy CSS), uses block formatting like that of CSS. It uses braces to denote code blocks and semicolons to separate rules 
+  within a block. The indented syntax and SCSS files are traditionally given the extensions .sass and .scss, respectively.
+	
+	SASS implementation: SCSS (Sassy CSS): Uses  .scss file extension and is fully compatible with CSS syntax 
+ Uses .sass file extension instead of bracket to do. It's not completely compatible with CSS syntax, but it's fast to write. Note that you can use the 
+ sass convert command to convert a file from one syntax to another.
+
+	What responsive design looks like
+	Personally, The user interface(UI) should be Compatible for many devices like mobile, tablet and desktop, because each device has different sizing screen.
+  
+2/ Homepage and Core Sass/CSS [Part 2].
+
+	Creating the landing page by HTML
+	Creating the core Sass/CSS styles for the project work
+	Understan deeper about nesting, variables, and other definitions
+	Have the knowledge about mixins and how to apply it to the project.
+
+
+3/ Rotating Menu Button [Part 3].
+	Creating the menu button by CSS
+	Embedded the JavaScript to have the rotating feature
+	Learning to CSS's usage transitions in order to rotate the button into an X
+
+
+4/ Menu Overlay & Responsiveness [Part 4].
+	Creating the menu overlay
+	Adding media query Sass mixins
+	Learn to navigate to the site
+
+5/ Page With CSS Grid [Part 5].
+	Creating the Grid layout for the pages
+	Mapping out the layout by using grid template areas.
+	Practise with Sass styling and make the page responsive
+
+6/ Work and Contact Pages [Part 6].
+	Learn something advance in CSS grid
+	Have the based knowledge about Flexbox CSS
+	Have the overall about 2 properties of CSS
+
+
+7/ Website Deployment [Part 7].
+ 	deployment my website with GitHub Pages
+  
+  
